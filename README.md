@@ -97,6 +97,7 @@ SELECT 'Fares Othman'              AS name,
 ## 📫 Let's Connect
 
 <p>
+  <a href="https://www.linkedin.com/in/fares-othman-2165a6287"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:faresothman43@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://khamsat.com/user/fares_othman43"><img src="https://img.shields.io/badge/Khamsat-11998e?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
   <a href="https://github.com/faresosman43/data-portfolio"><img src="https://img.shields.io/badge/Portfolio-0ba360?style=for-the-badge&logo=github&logoColor=white" /></a>
